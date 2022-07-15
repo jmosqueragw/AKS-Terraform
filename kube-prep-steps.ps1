@@ -1,15 +1,16 @@
-#### Parameters
+#### Parameters these 9 lines can be changed
 
-$keyvaultname = "xxxxx"
-$location = "xxxxx"
+$keyvaultname = "xxxxxx"
+$location = "xxxxxx"
 $keyvaultrg = "xxxxxx"
-$sshkeysecret = "xxxxx"
+$sshkeysecret = "xxxxxx"
+#### created before in azure AD Register an applicatio not important web https://localhost:5000
 $spnclientid = "xxxxxx"
 $clientidkvsecretname = "xxxxxx"
 $spnclientsecret = "xxxxxx"
-$spnkvsecretname = "xxxxx"
-$spobjectID = "xxxxx"
-$userobjectid = "xxxxx"
+$spnkvsecretname = "xxxxxx"
+$spobjectID = "xxxxxx"
+$userobjectid = "xxxxxx"
 
 
 #### Create Key Vault

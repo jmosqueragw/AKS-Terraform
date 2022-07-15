@@ -10,11 +10,11 @@ vnetcidr = ["10.0.0.0/24"]
 
 subnetcidr = ["10.0.0.0/25"]
 
-keyvault_rg = "aksdemo-rg"
+keyvault_rg = "rgp-uks-test"
 
 keyvault_name = "aksdemocluster-kv"
 
-azure_region = "australiaeast"
+azure_region = "uksouth"
 
 resource_group = "aksdemocluster-rg"
 
